@@ -1,0 +1,13 @@
+
+write print statement for each successfull case
+
+also test sidebar's first two item
+any one card image and title link click with back to products
+add to cart click for 2 to 4 cards
+remove button click for any one card
+click on cart icon and visit cart page
+click on continue button to goto checkout page
+fill checkout details and click on continue until the thanks for order page is not come
+click on social media icon to check for links
+
+divide script make function for login and do it
